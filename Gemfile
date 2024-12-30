@@ -24,7 +24,7 @@ end
 
 group :development do
   gem "web-console"
-  gem "rspec-rails", "~> 6.0.0" # 最新版
+  gem "rspec-rails", "~> 7.1.0" # 最新版
   gem "rswag-ui", "~> 2.16.0"
   gem "rswag-api", "~> 2.16.0"
   gem "rswag-specs", "~> 2.16.0"
